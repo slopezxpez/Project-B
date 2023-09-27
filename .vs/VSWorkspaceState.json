@@ -1,7 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\themes",
+    "\\themes\\twentytwentythree",
+    "\\themes\\twentytwentythree\\templates"
   ],
-  "SelectedNode": "\\C:\\Users\\slopez\\Source\\Repos\\Project-B",
+  "SelectedNode": "\\themes\\twentytwentythree\\templates\\home.html",
   "PreviewInSolutionExplorer": false
 }
